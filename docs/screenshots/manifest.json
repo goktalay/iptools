@@ -1,0 +1,98 @@
+[
+  {
+    "file": "01-kayitlar-gece.png",
+    "theme": "dark",
+    "title": "Kayıtlar ve bulunan cihazlar",
+    "caption": "Kayda tıklayın: aralık taranır; IP, ad, MAC, üretici, yanıt süresi ve servisler"
+  },
+  {
+    "file": "02-tarama-gece.png",
+    "theme": "dark",
+    "title": "Tarama sürüyor",
+    "caption": "En çok 64 eşzamanlı bağlantı, cihaz başına 1 sn; ilerleme ve Durdur"
+  },
+  {
+    "file": "03-ayrintilar-gece.png",
+    "theme": "dark",
+    "title": "Cihaz ayrıntıları",
+    "caption": "Karşılama satırı, sayfa başlığı, Server başlığı ve TLS sertifika konu adı"
+  },
+  {
+    "file": "04-yeni-kaybolan-gece.png",
+    "theme": "dark",
+    "title": "Yeni ve kaybolan cihazlar",
+    "caption": "Önceki taramaya göre yeni gelen ve kaybolan cihazlar vurgulanır"
+  },
+  {
+    "file": "05-kayit-formu-gece.png",
+    "theme": "dark",
+    "title": "Kayıt formu ve adres denetimi",
+    "caption": "Yalnız özel adresler (10.x, 172.16–31.x, 192.168.x) kabul edilir; en çok /16"
+  },
+  {
+    "file": "06-ayarlar-tarama-gece.png",
+    "theme": "dark",
+    "title": "Ayarlar › Tarama",
+    "caption": "Sabit port listesi yalnız kapatılabilir; eşzamanlılık ≤ 64, zaman aşımı ≤ 1 sn"
+  },
+  {
+    "file": "07-ayarlar-genel-gece.png",
+    "theme": "dark",
+    "title": "Ayarlar › Genel",
+    "caption": "Dil, Gece/Gündüz/Sistem teması, Windows ile başlat, tepsi ve güncellemeler"
+  },
+  {
+    "file": "08-giris-gece.png",
+    "theme": "dark",
+    "title": "Tek giriş",
+    "caption": "Mastertool hesabıyla bir kez giriş yapın; diğer uygulamalar yeniden sormaz"
+  },
+  {
+    "file": "01-kayitlar-gunduz.png",
+    "theme": "light",
+    "title": "Kayıtlar ve bulunan cihazlar",
+    "caption": "Kayda tıklayın: aralık taranır; IP, ad, MAC, üretici, yanıt süresi ve servisler"
+  },
+  {
+    "file": "02-tarama-gunduz.png",
+    "theme": "light",
+    "title": "Tarama sürüyor",
+    "caption": "En çok 64 eşzamanlı bağlantı, cihaz başına 1 sn; ilerleme ve Durdur"
+  },
+  {
+    "file": "03-ayrintilar-gunduz.png",
+    "theme": "light",
+    "title": "Cihaz ayrıntıları",
+    "caption": "Karşılama satırı, sayfa başlığı, Server başlığı ve TLS sertifika konu adı"
+  },
+  {
+    "file": "04-yeni-kaybolan-gunduz.png",
+    "theme": "light",
+    "title": "Yeni ve kaybolan cihazlar",
+    "caption": "Önceki taramaya göre yeni gelen ve kaybolan cihazlar vurgulanır"
+  },
+  {
+    "file": "05-kayit-formu-gunduz.png",
+    "theme": "light",
+    "title": "Kayıt formu ve adres denetimi",
+    "caption": "Yalnız özel adresler (10.x, 172.16–31.x, 192.168.x) kabul edilir; en çok /16"
+  },
+  {
+    "file": "06-ayarlar-tarama-gunduz.png",
+    "theme": "light",
+    "title": "Ayarlar › Tarama",
+    "caption": "Sabit port listesi yalnız kapatılabilir; eşzamanlılık ≤ 64, zaman aşımı ≤ 1 sn"
+  },
+  {
+    "file": "07-ayarlar-genel-gunduz.png",
+    "theme": "light",
+    "title": "Ayarlar › Genel",
+    "caption": "Dil, Gece/Gündüz/Sistem teması, Windows ile başlat, tepsi ve güncellemeler"
+  },
+  {
+    "file": "08-giris-gunduz.png",
+    "theme": "light",
+    "title": "Tek giriş",
+    "caption": "Mastertool hesabıyla bir kez giriş yapın; diğer uygulamalar yeniden sormaz"
+  }
+]

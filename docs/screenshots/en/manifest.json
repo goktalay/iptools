@@ -1,0 +1,98 @@
+[
+  {
+    "file": "01-kayitlar-gece.png",
+    "theme": "dark",
+    "title": "Records and discovered devices",
+    "caption": "Click a record to scan its range: IP, name, MAC, vendor, response, services"
+  },
+  {
+    "file": "02-tarama-gece.png",
+    "theme": "dark",
+    "title": "Scan in progress",
+    "caption": "At most 64 concurrent connections, 1 s per device; progress and Stop"
+  },
+  {
+    "file": "03-ayrintilar-gece.png",
+    "theme": "dark",
+    "title": "Device details",
+    "caption": "Greeting line, page title, Server header and TLS certificate subject name"
+  },
+  {
+    "file": "04-yeni-kaybolan-gece.png",
+    "theme": "dark",
+    "title": "New and gone devices",
+    "caption": "Devices that appeared or disappeared since the previous scan are highlighted"
+  },
+  {
+    "file": "05-kayit-formu-gece.png",
+    "theme": "dark",
+    "title": "Record form and address check",
+    "caption": "Only private addresses (10.x, 172.16–31.x, 192.168.x) are accepted; at most /16"
+  },
+  {
+    "file": "06-ayarlar-tarama-gece.png",
+    "theme": "dark",
+    "title": "Settings › Scan",
+    "caption": "The fixed port list can only be narrowed; concurrency ≤ 64, timeout ≤ 1 s"
+  },
+  {
+    "file": "07-ayarlar-genel-gece.png",
+    "theme": "dark",
+    "title": "Settings › General",
+    "caption": "Language, Dark/Light/System theme, start with Windows, tray and updates"
+  },
+  {
+    "file": "08-giris-gece.png",
+    "theme": "dark",
+    "title": "Single sign-on",
+    "caption": "Sign in once with your Mastertool account; the other apps won’t ask again"
+  },
+  {
+    "file": "01-kayitlar-gunduz.png",
+    "theme": "light",
+    "title": "Records and discovered devices",
+    "caption": "Click a record to scan its range: IP, name, MAC, vendor, response, services"
+  },
+  {
+    "file": "02-tarama-gunduz.png",
+    "theme": "light",
+    "title": "Scan in progress",
+    "caption": "At most 64 concurrent connections, 1 s per device; progress and Stop"
+  },
+  {
+    "file": "03-ayrintilar-gunduz.png",
+    "theme": "light",
+    "title": "Device details",
+    "caption": "Greeting line, page title, Server header and TLS certificate subject name"
+  },
+  {
+    "file": "04-yeni-kaybolan-gunduz.png",
+    "theme": "light",
+    "title": "New and gone devices",
+    "caption": "Devices that appeared or disappeared since the previous scan are highlighted"
+  },
+  {
+    "file": "05-kayit-formu-gunduz.png",
+    "theme": "light",
+    "title": "Record form and address check",
+    "caption": "Only private addresses (10.x, 172.16–31.x, 192.168.x) are accepted; at most /16"
+  },
+  {
+    "file": "06-ayarlar-tarama-gunduz.png",
+    "theme": "light",
+    "title": "Settings › Scan",
+    "caption": "The fixed port list can only be narrowed; concurrency ≤ 64, timeout ≤ 1 s"
+  },
+  {
+    "file": "07-ayarlar-genel-gunduz.png",
+    "theme": "light",
+    "title": "Settings › General",
+    "caption": "Language, Dark/Light/System theme, start with Windows, tray and updates"
+  },
+  {
+    "file": "08-giris-gunduz.png",
+    "theme": "light",
+    "title": "Single sign-on",
+    "caption": "Sign in once with your Mastertool account; the other apps won’t ask again"
+  }
+]
